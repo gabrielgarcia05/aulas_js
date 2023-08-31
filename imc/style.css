@@ -97,14 +97,10 @@ h1{
 }
 
 .meme{
-    margin-left: 1245px;
-    margin-top: 495px;
-}
-.img{
-    width: 7rem;
-    cursor: pointer;
+    margin-left: 476px;
+    margin-top: 200px;
 }
 
-.img:hover{
-    width: 6rem;
+.img{
+    width: 5rem;
 }
