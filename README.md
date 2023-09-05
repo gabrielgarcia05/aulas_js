@@ -9,3 +9,6 @@ https://gabrielgarcia05.github.io/aulas_js/funcoes/funcoes.html
 https://gabrielgarcia05.github.io/aulas_js/funcoes_forms/index.html
 ## Funções com Retorno e Parâmetro 
 https://gabrielgarcia05.github.io/aulas_js/imc/index.html
+## Laços de Repetição
+https://gabrielgarcia05.github.io/aulas_js/lacoTabuada/index.html
+
