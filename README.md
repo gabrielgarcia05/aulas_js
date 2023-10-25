@@ -11,5 +11,7 @@ https://gabrielgarcia05.github.io/aulas_js/funcoes_forms/index.html
 https://gabrielgarcia05.github.io/aulas_js/imc/index.html
 ## Laços de Repetição
 https://gabrielgarcia05.github.io/aulas_js/lacoTabuada/index.html
-## Programação Orientada a Objeto com Laço
+## Programação Orientada a Objeto Sem Laço
+https://gabrielgarcia05.github.io/aulas_js/poo/index.html
+## Programação Orientada a Objeto Com Laço
 https://gabrielgarcia05.github.io/aulas_js/poo-02/index.html
