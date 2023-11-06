@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Exo 2', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+}
+
+#main-image{
+    width: 550px;
+}
+
+h1{
+    text-align: center;
+}
+
+.resp-img{
+    width: 300px;
+    margin-top: 15%;
+    cursor: pointer;
+}
+
+footer{
+    text-align: center;
+    margin-top: 4%;
+    font-size: 2rem;
+}
+
