@@ -15,3 +15,5 @@ https://gabrielgarcia05.github.io/aulas_js/lacoTabuada/index.html
 https://gabrielgarcia05.github.io/aulas_js/poo/index.html
 ## Programação Orientada a Objeto Com Laço
 https://gabrielgarcia05.github.io/aulas_js/poo-02/index.html
+## Troca Imagem
+https://gabrielgarcia05.github.io/aulas_js/troca-img/index.html
